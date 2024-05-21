@@ -15,17 +15,20 @@ header {
     text-align: center;
 }
 /**/
-div ul li {
+div ul li{
     display: inline;
     margin: 0 20px;
 }
 
-div ul li a {
+div ul li a{
     color: #fff;
     text-decoration: none;
 }
 
+section ul p {
+    text-decoration: none
 
+}
 
 /* Conteúdo Principal */
 main {
